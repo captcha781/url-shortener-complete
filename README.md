@@ -1,6 +1,6 @@
 ## URL-Shortener Full-Stack App
 
-    This project is a URL - Shortener or URL Shrinker Fullstack MERN (MySQL, Express, React, Node) Web-Application.
+  This project is a URL - Shortener or URL Shrinker Fullstack MERN (MySQL, Express, React, Node) Web-Application.
 
 ## Initialisation:
 
